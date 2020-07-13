@@ -50,14 +50,14 @@ h1 {
   left: 230px;
 }
 .middle{
-  width:30%;
+  width:50%;
   margin: 50px auto;
   color: #ff8a6d;
 }
 .me{
   margin:10px auto;
-  height: 150px;
-  width:150px;
+  height: 50%;
+  width:50%;
 }
 .line1{
   border-top-style: dotted;
